@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691776544815",
+    "project_id": "garbagemanagement-cdc4b",
+    "storage_bucket": "garbagemanagement-cdc4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691776544815:android:33bca0a00a6055b9d826da",
+        "android_client_info": {
+          "package_name": "com.example.garbage_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNc0t9BhXkqjH8dXdxaFPkcW-PoQbgxLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
